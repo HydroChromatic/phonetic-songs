@@ -28,3 +28,4 @@ def txtavg():
     print("\n")
     print("Average across all txt documents")
     print(Counter(line))
+    
